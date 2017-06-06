@@ -8,5 +8,4 @@ The python script adds a cool moustache to all the detected faces in a photograp
 | OpenCV        | 3.2.0         |  
 
 The *Haar Cascade Classifer-Frontal Face Defalut.xml*  is given in the repo. Paste it in the same directory as the Project File.                                                                                                                       
-Sample images are given to test the script. Additional Images can also be used.
-Sample Image:
+Sample images are given to test the script. Additional Images can also be used.                                            
